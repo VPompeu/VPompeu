@@ -1,8 +1,8 @@
 ## Olá! Eu sou Victor Pompeu.
 
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas.
+- 👨‍🎓 systems analysis and development student.
 - 😄 Pronouns: Ele/Dele.
-- :man_technologist: Estagiário em Análise de Requisitos de Software.
+- 👨‍💻 Intern in Software Requirements Analysis and Product Owner.
 
 <div align="center">
   <a href="https://github.com/VPompeu">
