@@ -2,7 +2,7 @@
 
 - 👨‍🎓 systems analysis and development student.
 - 😄 Pronouns: Ele/Dele.
-- 👨‍💻 Intern in Software Requirements Analysis and Product Owner.
+- 👨‍💻 Software Engineering Intern.
 
 <div align="center">
   <a href="https://github.com/VPompeu">
