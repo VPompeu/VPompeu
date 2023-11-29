@@ -2,7 +2,7 @@
 
 - 👨‍🎓 systems analysis and development student.
 - 😄 Pronouns: Ele/Dele.
-- 👨‍💻 Software Engineering Intern.
+- 👨‍💻 FullStack Intern.
 
 <div align="center">
   <a href="https://github.com/VPompeu">
