@@ -2,7 +2,7 @@
 
 - 👨‍🎓 systems analysis and development student.
 - 😄 Pronouns: Ele/Dele.
-- 👨‍💻 Fullstack Developer
+- 👨‍💻 Front-end Developer
 
 <div align="center">
   <a href="https://github.com/VPompeu">
