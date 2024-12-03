@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/VPompeu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VPompeu&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&token=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"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VPompeu&theme=chartreuse-dark&hide_border=false&token=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"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VPompeu&theme=chartreuse-dark&hide_border=false&include_all_commits=true&token=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"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPompeu&layout=compact&langs_count=15&theme=chartreuse-dark&count_private=true&token=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"/>
 </div>
   
