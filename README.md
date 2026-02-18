@@ -1,8 +1,8 @@
 ## Olá! Eu sou Victor Pompeu.
 
-- 👨‍🎓 systems analysis and development student.
+- 👨‍🎓 Master's student in Computer Science in Education.
 - 😄 Pronouns: Ele/Dele.
-- 👨‍💻 Front-end Developer
+- 👨‍💻 Programming Teatcher 
 
 <div align="center">
   <a href="https://github.com/VPompeu">
